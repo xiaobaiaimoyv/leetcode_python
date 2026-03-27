@@ -2,7 +2,7 @@
 
 > 📅 仓库最后更新：2026-03-27
 
-目前已完成: **33** 题
+目前已完成: **34** 题
 
 ### 04_二分法_bisect
 
@@ -63,6 +63,7 @@
 | 题号 | 类型 | 题目名称 | 题目 (笔记) | 解法代码 |
 | :--- | :--- | :--- | :--- | :--- |
 | 17 | 回溯_hot100 | 电话号码的数字组合 | [题目详情 📝](solutions/回溯_hot100/17_电话号码的数字组合/note.md) | [查看代码 💻](solutions/回溯_hot100/17_电话号码的数字组合/solution.py) |
+| 22 | 回溯_hot100 | 括号生成 | [题目详情 📝](solutions/回溯_hot100/22_括号生成/note.md) | [查看代码 💻](solutions/回溯_hot100/22_括号生成/solution.py) |
 | 39 | 回溯_hot100 | 组合总和 | [题目详情 📝](solutions/回溯_hot100/39_组合总和/note.md) | [查看代码 💻](solutions/回溯_hot100/39_组合总和/solution.py) |
 | 46 | 回溯_hot100 | 全排列 | [题目详情 📝](solutions/回溯_hot100/46_全排列/note.md) | [查看代码 💻](solutions/回溯_hot100/46_全排列/solution.py) |
 | 78 | 回溯_hot100 | 子集 | [题目详情 📝](solutions/回溯_hot100/78_子集/note.md) | [查看代码 💻](solutions/回溯_hot100/78_子集/solution.py) |
