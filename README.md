@@ -2,7 +2,7 @@
 
 > 📅 仓库最后更新：2026-03-27
 
-目前已完成: **34** 题
+目前已完成: **36** 题
 
 ### 04_二分法_bisect
 
@@ -67,6 +67,13 @@
 | 39 | 回溯_hot100 | 组合总和 | [题目详情 📝](solutions/回溯_hot100/39_组合总和/note.md) | [查看代码 💻](solutions/回溯_hot100/39_组合总和/solution.py) |
 | 46 | 回溯_hot100 | 全排列 | [题目详情 📝](solutions/回溯_hot100/46_全排列/note.md) | [查看代码 💻](solutions/回溯_hot100/46_全排列/solution.py) |
 | 78 | 回溯_hot100 | 子集 | [题目详情 📝](solutions/回溯_hot100/78_子集/note.md) | [查看代码 💻](solutions/回溯_hot100/78_子集/solution.py) |
+| 79 | 回溯_hot100 | 单词搜索 | [题目详情 📝](solutions/回溯_hot100/79_单词搜索/note.md) | [查看代码 💻](solutions/回溯_hot100/79_单词搜索/solution.py) |
+
+### 栈_hot100
+
+| 题号 | 类型 | 题目名称 | 题目 (笔记) | 解法代码 |
+| :--- | :--- | :--- | :--- | :--- |
+| 20 | 栈_hot100 | 有效的括号 | [题目详情 📝](solutions/栈_hot100/20_有效的括号/note.md) | [查看代码 💻](solutions/栈_hot100/20_有效的括号/solution.py) |
 
 ### 滑动窗口_hot100
 
